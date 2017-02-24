@@ -101,16 +101,25 @@ header-img: "img/s.jpg"
 {% if site.duoshuo_username %}
 <!-- 多说评论框 start -->
 <div class="comment">
-    <!-- This id is used for indexing my loss comments forcedly -->
+  
     <div class="ds-thread"
     {% if site.duoshuo_username == "huxblog" %}
         data-thread-id="1187623191091085319"
     {% else %}
+<<<<<<< HEAD
+	    data-thread-key="{{site.duoshuo_username}}/about"
+	{% endif %}
+	data-title="{{page.title}}"
+	data-url="{{site.url}}/about/">
+	</div>
+  
+     
+=======
         data-thread-key="{{site.duoshuo_username}}/about"
     {% endif %}
+>>>>>>> origin/2
 
-    data-title="{{page.title}}"
-    data-url="{{site.url}}/about/"></div>
+    
 </div>
 <!-- 多说评论框 end -->
 
