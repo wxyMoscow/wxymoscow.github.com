@@ -6,7 +6,7 @@ iframe:     "//wxyMoscow.github.io/js-module-7day-master/"
 date:       2017-01-01
 author:     "WangXingyu"
 tags:
-    - 前端开发
+    - Visualization
     - JavaScript
 ---
 
