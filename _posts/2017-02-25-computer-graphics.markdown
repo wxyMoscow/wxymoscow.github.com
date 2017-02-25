@@ -4,7 +4,7 @@ title:      "计算机图形学课程实验"
 subtitle:   "先占个坑"
 date:       2017-02-25 
 author:     "WangXingyu"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/ball.jpg"
 catalog: true
 tags:
     - Computer Graphics 
