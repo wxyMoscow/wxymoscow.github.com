@@ -4,7 +4,7 @@ title:      "操作系统课设报告"
 subtitle:   "凑数用的"
 date:       2016-12-16 
 author:     "WangXingyu"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/os.jpg"
 catalog: true
 tags:
     - OS
