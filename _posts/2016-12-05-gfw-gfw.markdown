@@ -4,7 +4,7 @@ title:      "道高一尺，墙高一丈：互联网封锁是如何升级的"
 subtitle:   "开门查水表"
 date:       2016-12-06 
 author:     "WangXingyu"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/gfw.jpg"
 catalog: true
 tags:
     - Internet
