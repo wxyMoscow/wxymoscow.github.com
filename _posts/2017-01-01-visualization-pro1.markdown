@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "可视化实验展示"
 subtitle:   "Slides: visualization experiments"
-iframe:     "//wxyMoscow.github.io/js-module-7day-master/"
+iframe:     "//wxymoscow.github.io/js-module-7day-master/"
 date:       2017-01-01
 author:     "WangXingyu"
 tags:
