@@ -70,7 +70,7 @@ ga_domain: none
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Xor，<br>add without carry"
+sidebar-about-description: "Xor，<br>add without carry."
 sidebar-avatar: /img/wxy2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
