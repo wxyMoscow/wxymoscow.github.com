@@ -97,12 +97,12 @@ friends: [
         href: "https://leezekun.github.io/"
     },
     {
-        title: "Ruan Zongming",
-        href: "https://ruange.github.io/homepage/"
-    },
-    {
         title: "Yu Peiran",
         href: "https://slientuill.github.io/"
+    },
+    {
+        title: "Ruan Zongming",
+        href: "https://ruange.github.io/homepage/"
     },
     {
         title: "Zhang Yupeng",
@@ -135,5 +135,29 @@ friends: [
     {
         title: "Cao Kun",
         href: "http://caokun.net/"
+    },
+    {   
+        title: "Ma Yingyin",
+        href: "https://yiketree.github.io/"
+    },
+    {
+        title: "Zhao Mingfu",
+        href: "http://chicharito999.github.io/"
+    },
+    {
+        title: "Zhang Xiao",
+        href: "https://j0sephj0estar.github.io/"
+    },
+    {
+        title: "Bu Yuxuan",
+        href: "https://buyuxuan.github.io/"
+    },
+    {
+        title: "Xing Bo",
+        href: "https://svenbob.github.io/"
+    }
+    {
+        title: "Wang Kexin",
+        href: "https://52yuanzhao.github.io/homepage/"
     }
 ]
