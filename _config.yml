@@ -105,8 +105,16 @@ friends: [
         href: "https://ruange.github.io/homepage/"
     },
     {
+        title: "Zhao Mingfu",
+        href: "https://chicharito999.github.io/Computer-Graphics/"
+    },
+    {
         title: "Zhang Yupeng",
         href: "https://bluefissure.com/"
+    },
+    {
+        title: "Zhang Haifeng",
+        href: "https://basketduck.github.io/"
     },
     {
         title: "Jia Rui",
@@ -115,14 +123,6 @@ friends: [
     {
         title: "Lu Baotong",
         href: "https://lueagle.github.io/"
-    },
-    {
-        title: "Zhang Haifeng",
-        href: "https://basketduck.github.io/"
-    },
-    {
-        title: "Liu Jingying",
-        href: "https://ryinsummers.github.io/"
     },
     {
         title: "Xu Dapeng",
@@ -141,8 +141,8 @@ friends: [
         href: "https://yiketree.github.io/"
     },
     {
-        title: "Zhao Mingfu",
-        href: "http://chicharito999.github.io/"
+        title: "Li Zhengxian",
+        href: "https://lrenascence.github.io/"
     },
     {
         title: "Zhang Xiao",
@@ -157,7 +157,19 @@ friends: [
         href: "https://svenbob.github.io/"
     },
     {
+        title: "Wang Yao",
+        href: "https://wangyao-sdu.github.io/"
+    },
+    {
         title: "Wang Kexin",
         href: "https://52yuanzhao.github.io/homepage/"
+    },
+    {
+        title: "Hou Zhongni",
+        href: "https://zhongni.github.io/graphics.github.io/"
+    },
+    {
+        title: "Liu Jingying",
+        href: "https://ryinsummers.github.io/"
     }
 ]
