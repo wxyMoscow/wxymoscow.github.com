@@ -109,7 +109,7 @@ friends: [
         href: "https://bluefissure.com/"
     },
     {
-        title: "Jia Rui  ",
+        title: "Jia Rui",
         href: "https://jiaruisdu.github.io/"
     },
     {
@@ -119,5 +119,21 @@ friends: [
     {
         title: "Zhang Haifeng",
         href: "https://basketduck.github.io/"
+    },
+    {
+        title: "Liu Jingying",
+        href: "https://ryinsummers.github.io/"
+    },
+    {
+        title: "Xu Dapeng",
+        href: "https://dapeng-xu.github.io/"
+    },
+    {
+        title: "Liu Tingting",
+        href: "https://yjsltt.github.io/"
+    },
+    {
+        title: "Cao Kun",
+        href: "http://caokun.net/"
     }
 ]
