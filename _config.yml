@@ -153,8 +153,16 @@ friends: [
         href: "https://buyuxuan.github.io/"
     },
     {
+        title: "Xin Zengwei",
+        href: "https://heravles.github.io/MyHomepage/"
+    },
+    {
         title: "Xing Bo",
         href: "https://svenbob.github.io/"
+    },
+    {
+        title: "Guo Cheng",
+        href: "https://realguocheng.github.io/"
     },
     {
         title: "Wang Yao",
@@ -171,5 +179,13 @@ friends: [
     {
         title: "Liu Jingying",
         href: "https://ryinsummers.github.io/"
+    },
+    {
+        title: "Wu Qingli",
+        href: "https://dalilili.github.io/Homepage/"
+    },
+    {
+        title: "Zhou Hong",
+        href: "https://androidhelen.github.io/homepage/"
     }
 ]
