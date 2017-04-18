@@ -19,15 +19,16 @@ phong模型课上讲得已经比较清楚，利用光的反射原理求出反射
 
 
 　　而blinn-phong模型则是利用了入射光和观察者方向计算的中间向量H：
-<img src="/img/in-post/cg-ex2/blinn-phong-model.png" width = "360" height = "160" alt="图片名称" align=center />
+![img](/img/in-post/cg-ex2/blinn-phong-model.png)
+
 
 　　其他的部分二者基本相同，都是对顶点的法向量进行计算后对平面上任意点的法向量计算，进而求出每个像素的颜色。
 最终的效果如下图所示：
 
-<img src="/img/in-post/cg-ex2/phong.png" width = "360" height = "360" alt="phong模型" align=center />
+![img](/img/in-post/cg-ex2/phong.png)
                             phong模型
 
-<img src="/img/in-post/cg-ex2/blinn-phong.png" width = "360" height = "360" alt="blinn-phong模型" align=center />
+![img](/img/in-post/cg-ex2/blinn-phong.png)
                             blinn-phong模型
 
 
