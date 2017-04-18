@@ -2,7 +2,7 @@
 layout:     post
 title:      "Experiment2: RayTracing"
 subtitle:   "Shading of sphere"
-date:       2017-04-18 
+date:       2017-04-17 
 author:     "WangXingyu"
 header-img: "img/ball.png"
 catalog: true
@@ -25,10 +25,10 @@ phong模型课上讲得已经比较清楚，利用光的反射原理求出反射
 最终的效果如下图所示：
 
 <img src="/img/in-post/cg-ex2/phong.png" width = "360" height = "360" alt="phong模型" align=center />
-                  
+                            phong模型
 
 <img src="/img/in-post/cg-ex2/blinn-phong.png" width = "360" height = "360" alt="blinn-phong模型" align=center />
-                 
+                            blinn-phong模型
 
 
 
