@@ -24,7 +24,10 @@ phongÄ£ĞÍ¿ÎÉÏ½²µÃÒÑ¾­±È½ÏÇå³ş£¬ÀûÓÃ¹âµÄ·´ÉäÔ­ÀíÇó³ö·´Éä¹âµÄÏòÁ¿£¬ÒÔÈëÉä¹âºÍ·¨ÏßÎ
 ×îÖÕµÄĞ§¹ûÈçÏÂÍ¼ËùÊ¾£º
 
 ![img](/img/in-post/cg-ex2/phong.png)
+phongÄ£ĞÍ
+
 ![img](/img/in-post/cg-ex2/blinn-phong.png)
+blinn-phongÄ£ĞÍ
 
 
 
