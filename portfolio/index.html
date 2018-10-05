@@ -18,16 +18,29 @@ layout: default
 			<header>
 				<img width="190" height="190" src="images/wxy2.jpg">
 				<h1>Wang Xingyu</h1>
-				<p>A student majoring in computer science,<br>
-					focusing on anything interesting.</p>
+				<p>That's a real one in your reflection<br> 
+				   Without a follow, without a mention</p>
 			</header>
 			<div class="main">
 				<ul class="cbp_tmtimeline">
-					
+					<li>
+						<div class="cbp_tmlabel">
+							<h2>Agricultural Bank of China</h2>
+							<time>2018 - </time>
+							<img src="images/ABC2.jpg">
+							<ul>
+								<li>
+									&nbsp &nbsp After the failure of the postgraduate entrance examination, I began to participate in the spring recruitment of major companies, and finally chose the Agricultural Bank of China R & D Center as my first job.<br>
+									&nbsp &nbsp My office is located in Daoxiang Lake. The environment is good, the facilities are very comprehensive, and the atmosphere between my colleagues is very harmonious. I hope to learn more and become better here.
+								</li>
+
+							</ul>
+						</div>
+					</li>
 					<li>
 						<div class="cbp_tmlabel">
 							<h2>Shandong University</h2>
-							<time>2014 - </time>
+							<time>2014 - 2018</time>
 							<img src="images/qlsc2.jpg">
 							<ul>
 								<li>
@@ -57,42 +70,10 @@ layout: default
 				
 				
 				
-					{% if site.duoshuo_username %}
-					<li>
-						<div class="cbp_tmlabel">
-			                <!-- 多说评论框 start -->
-			                <div class="comment">
-			                    <div class="ds-thread"
-									data-thread-key="{{site.duoshuo_username}}/portfolio"
-			                        data-title="{{page.title}}"
-			                        data-url="{{site.url}}{{site.baseurl}}{{page.url}}" >
-			                    </div>
-			                </div>
-			                <!-- 多说评论框 end -->
-						</div>
-					</li> 
-					{% endif %}
+
 				</ul>
 			</div>
 		</div>
-		{% if site.duoshuo_username %}
-		<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-		<script type="text/javascript">
-		    // dynamic User by Hux
-		    var _user = '{{site.duoshuo_username}}';
 
-		    // duoshuo comment query.
-		    var duoshuoQuery = {short_name: _user };
-		    (function() {
-		        var ds = document.createElement('script');
-		        ds.type = 'text/javascript';ds.async = true;
-		        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-		        ds.charset = 'UTF-8';
-		        (document.getElementsByTagName('head')[0]
-		         || document.getElementsByTagName('body')[0]).appendChild(ds);
-		    })();
-		</script>
-		<!-- 多说公共JS代码 end -->
-		{% endif %}
 	</body>
 </html>
