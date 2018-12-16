@@ -29,7 +29,7 @@ tags:
 
 　　Dad was always busy -- a man in constant motion -- but never too busy to share his love of life with those around him. He taught us to love the outdoors. He loved watching dogs flush a covey. He loved landing the elusive striper. And once confined to a wheelchair, he seemed happiest sitting in his favorite perch on the back porch at Walker's Point contemplating the majesty of the Atlantic. The horizons he saw were bright and hopeful. He was a genuinely optimistic man. And that optimism guided his children and made each of us believe that anything was possible.
 
-![img](/img/in-post/GWBush/2.jpg)
+![img](../img/in-post/GWBush/2.jpg)
 
 　　He continually broadened his horizons with daring decisions. He was a patriot. After high school, he put college on hold and became a Navy fighter pilot as World War II broke out. Like many of his generation, he never talked about his service until his time as a public figure forced his hand. We learned of the attack on Chichi Jima, the mission completed, the shoot-down. We learned of the death of his crewmates, whom he thought about throughout his entire life. And we learned of his rescue.
 
